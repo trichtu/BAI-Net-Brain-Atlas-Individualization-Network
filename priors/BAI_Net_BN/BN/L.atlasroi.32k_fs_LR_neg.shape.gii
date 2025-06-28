@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GIFTI SYSTEM "http://www.nitrc.org/frs/download.php/115/gifti.dtd">
+<GIFTI NumberOfDataArrays="1" Version="1.0"><MetaData><MD><Name>AnatomicalStructurePrimary</Name><Value>CortexLeft</Value></MD><MD><Name>Caret-Version</Name><Value>5.65</Value></MD><MD><Name>Date</Name><Value>2012-11-13T05:25:24</Value></MD><MD><Name>UniqueID</Name><Value>{1fbd4629-1f40-4e61-a530-3f24c4dd18b4}</Value></MD><MD><Name>comment</Name><Value>Deformed from: CCNMD_MyelinMapping.L.Atlas_Cortex_ROI.164k_fs_LR.func.gii
+Deformed with: 164k_fs_LR232k_fs_LR.L.deform_map
+
+Appended File: /media/2TBB/MyelinMapping_Project/CommonFiles/FS_LR/fsaverage.L+R.MedialWall.164k_fs_LR.metric
+Deformed from: fsaverage.L.ProbabilisticArchitectonic.164k_fs_L.metric
+Deformed with: fsaverage.L.registered-to-fs_LR.164k_fs_LR.deform_map
+Appended File: /Users/vanessen/BRAIN_MAP_DATA/PALS_B12_HUMAN/FREESURFER-to-PALS/FREESURFER_AVG-to-PALS/FS_AVERAGE/FS_LR/fsaverage.R.ProbabilisticArchitectonic.164k_fs_LR.metric
+Deformed from: fsaverage.R.ProbabilisticArchitectonic.164k_fs_R.metric
+Deformed with: fsaverage.R.registered-to-fs_LR.164k_fs_LR.deform_map</Value></MD><MD><Name>encoding</Name><Value>XML_BASE64_GZIP</Value></MD></MetaData><LabelTable /><DataArray ArrayIndexingOrder="RowMajorOrder" DataType="NIFTI_TYPE_FLOAT32" Dim0="32492" Dimensionality="1" Encoding="GZipBase64Binary" Endian="LittleEndian" ExternalFileName="" ExternalFileOffset="0" Intent="NIFTI_INTENT_LABEL"><MetaData /><CoordinateSystemTransformMatrix><DataSpace>NIFTI_XFORM_UNKNOWN</DataSpace><TransformedSpace>NIFTI_XFORM_UNKNOWN</TransformedSpace><MatrixData>  1.000000   0.000000   0.000000   0.000000
+  0.000000   1.000000   0.000000   0.000000
+  0.000000   0.000000   1.000000   0.000000
+  0.000000   0.000000   0.000000   1.000000</MatrixData></CoordinateSystemTransformMatrix><Data>eJzt3EtOw0AQBNAcnZtxNcQCCUXKx54Zd9fklfQ2oExXywE7m9xuX9+3h37z7PfPXpeaM/sm6ZpP3/+d2Csnu+20+y6J2WGP9B10vz6JvdPe57rOT8J7oHvHzv26duv47Nbt+bhTny6fYTv0eNVhdZfus1d0qJh79cwj80ZnHp11dt6ZOUdnnZ3x7pyOZ7+aseLc0TPvz5553qyzgL2Npro/AHSXet9MvOenPaskPV+lPBceSULHip6d+51N114ru3Xr1KnPaDr06NBhRo8ZSdt9RrrPvHLeVbOumLN6xsrzV509Kyu7zjxv1lkdzpC9M3r/BwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgE80kr/Xr54z0g/gk6T//9vhf3hy/9Tuib3TOif1Teta3SG5Y/dr3bVbt14dr2OnPl26dOhR3aFyftXsirnV1xmAOo/uAfc////8+E6q9wIAAAAAAAAAAAAAAAAAAAAAAABgXOL3yz36Pr2k7807k+rOs/botsto9K/prvc1ndP6VvSelZSeK7teme79jnasTtde9+nYSURERET2yJWfQxmz87Xbca/ddtpln53+jnbYI32H5P6p3RN7p3VO7Vvd492u1R126AgAAAAAAAAAAAAAAAAAAOzqB/pplHE=</Data></DataArray></GIFTI>
